@@ -1,0 +1,14 @@
+{
+  "lr": 0.0003,
+  "batch_size": 512,
+  "epochs": 5,
+  "optimizer": "adam",
+  "hidden_width": 128,
+  "num_layers": 4,
+  "weight_decay": 0.0001,
+  "dropout": 0.4,
+  "best_epoch": 5,
+  "best_val_acc": 0.7697524883290761,
+  "test_loss": 1.5801589190485572,
+  "test_acc": 0.7672236618711464
+}
