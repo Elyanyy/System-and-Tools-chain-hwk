@@ -1,0 +1,6 @@
+DML-lecture3
+sqlContext=SQLContext(sc)
+spark=.......
+
+DML用PySpark
+345用sparksql
